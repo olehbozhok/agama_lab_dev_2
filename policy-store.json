@@ -21,7 +21,7 @@
                 },
                 "id_tokens": {
                     "trusted": true,
-                    "principal_identifier": "role",
+                    "principal_identifier": "sub",
                     "role_mapping": ""
                 },
                 "userinfo_tokens": {
